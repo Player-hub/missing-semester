@@ -17,6 +17,7 @@ your will, but it also lets you solve problems that would previously seem
 impossibly complex.
 
 hhhhhhhhhhhhhhhhhhh
+HHHHHHHHHHHHHHH
 
 Read about the [motivation behind this class](/about/).
 
